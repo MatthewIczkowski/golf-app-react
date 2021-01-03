@@ -1,14 +1,12 @@
+import React from 'react';
+import Navbar from "./components/Navbar/Navbar";
 import './App.css';
 import "tailwindcss/tailwind.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Welcome to Golf-App
-        </p>
-      </header>
+      <Navbar />
     </div>
   );
 }
