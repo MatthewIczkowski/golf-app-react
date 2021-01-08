@@ -33,7 +33,7 @@ export const homeObjTwo = {
 } 
 
 export const homeObjThree = {
-    id: 'about',
+    id: 'features',
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
